@@ -1,0 +1,6 @@
+ambi.tif            The image with ONLY the ambient light
+ambi_flash.tif      The image with ambient AND known light
+irradiance.tif      The irradiance of each pixel of the known lightsource
+
+gt_known.tif        Ground Truth image of only light from known light
+gt_reflectance.tif  Ground Truth reflectance
